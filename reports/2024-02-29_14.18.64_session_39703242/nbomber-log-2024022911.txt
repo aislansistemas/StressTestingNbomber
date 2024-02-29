@@ -1,0 +1,11 @@
+2024-02-29 11:18:42.721 -03:00 [INF] [ThreadId:1] NBomber 5.5.0 started a new session: 2024-02-29_14.18.64_session_39703242
+2024-02-29 11:18:42.748 -03:00 [INF] [ThreadId:1] NBomber started as single node
+2024-02-29 11:18:42.751 -03:00 [INF] [ThreadId:1] License validation....
+2024-02-29 11:18:42.752 -03:00 [WRN] [ThreadId:1] THIS VERSION IS FREE ONLY FOR PERSONAL USE. You can't use it for an organization.
+2024-02-29 11:18:42.971 -03:00 [INF] [ThreadId:1] Reports folder: C:\Program Files\dotnet\reports\empty session
+2024-02-29 11:18:42.972 -03:00 [INF] [ThreadId:1] Plugins: no plugins were loaded
+2024-02-29 11:18:42.973 -03:00 [INF] [ThreadId:1] Reporting sinks: no reporting sinks were loaded
+2024-02-29 11:18:42.974 -03:00 [INF] [ThreadId:1] Starting init...
+2024-02-29 11:18:42.985 -03:00 [INF] [ThreadId:1] Target scenarios: Primeiro teste de carga
+2024-02-29 11:18:42.988 -03:00 [INF] [ThreadId:1] Init finished
+2024-02-29 11:18:43.237 -03:00 [INF] [ThreadId:1] Starting bombing...
